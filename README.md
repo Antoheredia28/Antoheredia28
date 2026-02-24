@@ -1,6 +1,6 @@
 - 👋 Hola soy Antonella
-- 👀 Estoy interesada en temas sobre tecnología , diseño ux/ui, analisis de datos, base de datos, seguridad informatica.
-- 🌱 Me gusta aprender sobre programación, diseño ux/ui, marketing , analisis de datos.
+- 👀 Estoy interesada en temas sobre tecnología , diseño ux/ui, seguridad informatica.
+- 🌱 Me gusta aprender sobre programación, diseño ux/ui, marketing.
 - 💞️ Busco colaborar con otros programadores juniors , diseñadores
 - 📫 Puedes contactarme en antonellaherediaia@gmail.com.
 - 😄 Puedes llamarme "Anto"
